@@ -103,7 +103,7 @@ section:not(.hero):nth-child(even) {
 	justify-content: center;
 	text-align: center;
 	min-height: 100vh;
-	color: #hero
+	color: #fff;
 }
 
 .hero .background-image {
